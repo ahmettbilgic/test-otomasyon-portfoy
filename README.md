@@ -10,9 +10,13 @@ Python, pytest ve Playwright ile yazdığım test otomasyon örnekleri.
 
 ## Kurulum
 
+```
 pip3 install pytest pytest-playwright
 python3 -m playwright install
+```
 
 ## Testleri çalıştırma
 
+```
 python3 -m pytest
+```
